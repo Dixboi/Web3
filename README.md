@@ -1,2 +1,3 @@
-# BlockChainSelfLearning
-My attempt to learn to how to create a BlockChain using JavaScript
+# Block Chain Self Learning
+External imports to: <br>
+  1. For the hash function: <code>npm install --save crypto-js</code>
