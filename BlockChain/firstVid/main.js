@@ -51,6 +51,8 @@ class Chain {
 	}
 }
 
+//test code
+
 let dixcoin = new Chain();
 
 dixcoin.addBlock(new Block(1, '10/07/2021', { amount: 4 }));
