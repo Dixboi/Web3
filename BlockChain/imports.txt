@@ -1,0 +1,2 @@
+For the hash function
+npm install --save crypto-js
