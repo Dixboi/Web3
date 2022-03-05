@@ -4,3 +4,10 @@ All of the codes here will come from this [playlist](https://www.youtube.com/wat
 
 <b>External imports to: </b><br>
   1. For the hash function: <code>npm install --save crypto-js</code>
+
+<b>Short description about the videos:</b>
+- First video: Genesis block, attributes of a block, adding blocks to the blockchain, validating a blockchain, and trying to tamper with the blockchain
+- Second video: Difficulty to make it harder to add a block (this is also known as the proof-of-work)
+- Third video: TBD
+- Fourth video: TBD
+- Fifth video: TBD
