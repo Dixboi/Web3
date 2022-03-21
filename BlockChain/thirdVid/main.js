@@ -33,7 +33,7 @@ class Block {
 
 class Chain {
 	constructor() {
-		this.chain = [this.createGenesisBlock];
+		this.chain = [this.createGenesisBlock()];
 		this.difficulty = 1;
 		this.pendingTransactions = [];
 		this.miningReward = 100;
