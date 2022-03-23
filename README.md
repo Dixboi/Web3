@@ -9,5 +9,5 @@ All of the [codes](https://github.com/Dixboi/BlockChainSelfLearning/tree/main/Bl
 - First video: Genesis block, attributes of a block, adding blocks to the blockchain, validating a blockchain, and trying to tamper with the blockchain
 - Second video: Difficulty to make it harder to add a block (this is also known as the proof-of-work)
 - Third video: Added pending transactions for when blocks are not yet added, added Transaction class and can create transaction to be stored in pending transactions.
-- Fourth video: TBD
+- Fourth video: Time stamp 10:35
 - Fifth video: TBD
