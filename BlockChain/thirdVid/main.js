@@ -107,3 +107,8 @@ console.log('Starting the miner.');
 dixcoin.minePendingTransactions('my-address');
 
 console.log('my balance: ', dixcoin.getBalance('my-address'));
+
+console.log('Starting the miner again.');
+dixcoin.minePendingTransactions('my-address');
+
+console.log('my balance: ', dixcoin.getBalance('my-address'));
