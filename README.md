@@ -21,6 +21,6 @@ Notes that I got when I am studying Solidity can be found [here](https://github.
 <b>Short description from the courses:</b>
 - Lesson 1: Will introduce the basic syntax of Solidity programming such as variable creation, contracts, function, variable types, and value returns for functions. <br>
 ---
-My [Level 1 CryptoZombie](https://share.cryptozombies.io/en/lesson/1/share/dex?id=Y3p8MjE1MjI3) <br>
+My [Level 1 CryptoZombie](https://share.cryptozombies.io/en/lesson/1/share/dex?id=Y3p8MjE1MjI3) from Lesson 1 <br>
 ![image](https://user-images.githubusercontent.com/59426458/167803389-3fb57eef-7853-446b-be85-f44524de1cb3.png) <br>
 
