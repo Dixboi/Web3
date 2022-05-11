@@ -18,4 +18,5 @@ All of the codes on [BlockChain](https://github.com/Dixboi/Web3/tree/main/BlockC
 
 Notes that I got when I am studying Solidity can be found [here](https://github.com/Dixboi/Web3/tree/main/CryptoZombies). The full courses of CryptoZombie can be found in this [link](https://cryptozombies.io/en/course)
 
+<b>Short description from the courses:</b>
 - Lesson 1: Will introduce the basic syntax of Solidity programming such as variable creation, contracts, function, variable types, and value returns for functions.
