@@ -1,6 +1,8 @@
 # Block Chain Self Learning
 
-All of the [codes](https://github.com/Dixboi/BlockChainSelfLearning/tree/main/BlockChain) here will come from this [playlist](https://www.youtube.com/watch?v=zVqczFZr124&list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4). Although I literally copied the codes from this video, I tried to add some changes to enhance my learning.
+## BlockChain
+
+All of the codes on [BlockChain](https://github.com/Dixboi/Web3/tree/main/BlockChain) folder here will come from this [playlist](https://www.youtube.com/watch?v=zVqczFZr124&list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4). Although I literally copied the codes from this video, I tried to add some changes to enhance my learning.
 
 <b>External imports to: </b><br>
   1. For the hash function: <code>npm install --save crypto-js</code>
@@ -11,3 +13,9 @@ All of the [codes](https://github.com/Dixboi/BlockChainSelfLearning/tree/main/Bl
 - Third video: Added pending transactions for when blocks are not yet added, added Transaction class and can create transaction to be stored in pending transactions.
 - Fourth video: Time stamp 10:35
 - Fifth video: TBD
+
+## CryptoZombie
+
+Notes that I got when I am studying Solidity can be found [here](https://github.com/Dixboi/Web3/tree/main/CryptoZombies). The full courses of CryptoZombie can be found in this [link](https://cryptozombies.io/en/course)
+
+- Lesson 1: Will introduce the basic syntax of Solidity programming such as variable creation, contracts, function, variable types, and value returns for functions.
