@@ -1,5 +1,12 @@
 # Web3
 
+## What is Blockchain
+[IBM](https://www.ibm.com/topics/what-is-blockchain), [Wikipedia](https://en.wikipedia.org/wiki/Blockchain), [Investopedia](https://www.investopedia.com/terms/b/blockchain.asp), [Codeacademy](https://www.codecademy.com/resources/blog/what-is-blockchain/)
+
+**My simplified definition:** Blockchain is a record of *immutable* transactions where each transaction is stored in a *block* and each block are *chained* to each other through their *hash* values.
+
+Other words to consider: Ledger, Byzantine Fault Tolerance, Peer-to-Peer, Decentrali
+
 ## BlockChain
 
 All of the codes on [BlockChain](https://github.com/Dixboi/Web3/tree/main/BlockChain) folder here will come from this [playlist](https://www.youtube.com/watch?v=zVqczFZr124&list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4). Although I literally copied the codes from this video, I tried to add some changes to enhance my learning.
