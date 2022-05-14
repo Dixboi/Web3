@@ -28,4 +28,6 @@ Notes that I got when I am studying Solidity can be found [here](https://github.
 <b>Short description from the courses:</b>
 - Lesson 1: Will introduce the basic syntax of Solidity programming such as variable creation, contracts, function, variable types, and value returns for functions. 
 - Lesson 2: Will further introduce the syntax of Solidity such as mapping, the require function, inheritance, importing, internal and external functions, interface, multiple return values, and if statements.
-<br>
+
+## Twitter threads/tweets that are helpful
+1. [Roadmap to become a Full Stack Web3 Developer](https://twitter.com/Param_eth/status/1525435042230849536)
