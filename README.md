@@ -30,5 +30,6 @@ Notes that I got when I am studying Solidity can be found [here](https://github.
 - Lesson 2: Will further introduce the syntax of Solidity such as mapping, the require function, inheritance, importing, internal and external functions, interface, multiple return values, and if statements.
 
 ## Twitter threads/tweets that are helpful
-1. [Concepts of Web3](https://twitter.com/MishadaVinci/status/1533444611762315265)
-2. [Roadmap to become a Full Stack Web3 Developer](https://twitter.com/Param_eth/status/1525435042230849536)
+1. [StackUp](https://twitter.com/Advik_eth/status/1534203982675324928)
+2. [Concepts of Web3](https://twitter.com/MishadaVinci/status/1533444611762315265)
+3. [Roadmap to become a Full Stack Web3 Developer](https://twitter.com/Param_eth/status/1525435042230849536)
